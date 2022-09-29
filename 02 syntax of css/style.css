@@ -1,0 +1,19 @@
+h1 {
+    background-color: green;
+}
+p {
+    background-color: rgb(3, 75, 75);
+}
+.first {
+    color:deeppink;
+}
+.second {
+    color:coral;
+}
+#main {
+    font-size: 200;
+}
+input[type="button"] {
+    background-color:green;
+    color:white;
+}
