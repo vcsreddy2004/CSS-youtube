@@ -1,0 +1,114 @@
+.pos-top {
+    /*
+    background-color: deeppink;
+    background-image: url('banner.jpg');
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: top; */
+    background: deeppink url('banner.jpg') no-repeat top;
+    background-size: 30%;
+    width: 700px;
+    height: 500px;
+}
+.pos-bottom {
+    /*
+    background-color: deeppink;
+    background-image: url('banner.jpg');
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: bottom; */
+    background: deeppink url('banner.jpg') no-repeat bottom;
+    background-size: 30%;
+    width: 700px;
+    height: 500px;
+}
+.pos-left {
+    /*
+    background-color: deeppink;
+    background-image: url('banner.jpg');
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: left; */
+    background: deeppink url('banner.jpg') no-repeat left;
+    background-size: 30%;
+    width: 700px;
+    height: 500px;
+}
+.pos-right {
+    /*
+    background-color: deeppink;
+    background-image: url('banner.jpg');
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: right; */ 
+    background: deeppink url('banner.jpg') no-repeat right;
+    background-size: 30%;
+    width: 700px;
+    height: 500px;
+}
+.pos-top-left {
+    /*
+    background-color: deeppink;
+    background-image: url('banner.jpg');
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: top left; */
+    background: deeppink url('banner.jpg') no-repeat top left;
+    background-size: 30%;
+    width: 700px;
+    height: 500px;
+}
+.pos-top-right {
+    /*
+    background-color: deeppink;
+    background-image: url('banner.jpg');
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: top right; */
+    background: deeppink url('banner.jpg') no-repeat top right;
+    background-size: 30%;
+    width: 700px;
+    height: 500px;
+}
+.pos-bottom-left {
+    /*
+    background-color: deeppink;
+    background-image: url('banner.jpg');
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: bottom left; */
+    background: deeppink url('banner.jpg') no-repeat bottom left;
+    background-size: 30%;
+    width: 700px;
+    height: 500px;
+}
+.pos-bottom-right {
+    /*
+    background-color: deeppink;
+    background-image: url('banner.jpg');
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: bottom right; */
+    background: deeppink url('banner.jpg') no-repeat bottom right;
+    background-size: 30%;
+    width: 700px;
+    height: 500px;
+}
+.pos-center {
+    /*
+    background-color: deeppink;
+    background-image: url('banner.jpg');
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: center; */
+    background: deeppink url('banner.jpg') no-repeat center;
+    background-size: 30%;
+    width: 700px;
+    height: 500px;
+}
+.bg-short {
+    background: deeppink url('banner.jpg') no-repeat bottom center;
+    background-size: 30%;
+    width: 700px;
+    height: 500px;
+}
