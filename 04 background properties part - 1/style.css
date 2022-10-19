@@ -1,0 +1,46 @@
+.colors {
+    /*
+    background-color: coral;  */
+    background: coral;
+    width:700px;
+    height: 500px;
+}
+.bg-img {
+    /*
+    background-image: url('banner.jpg');
+    background-color: green; */
+    background: green url("banner.jpg");
+    background-size: 30%;
+    width:700px;
+    height: 500px;
+}
+.rep-x {
+    /*
+    background-image: url('banner.jpg');
+    background-color: green;
+    background-repeat: repeat-x; */
+    background: green url("banner.jpg") repeat-x;
+    background-size: 30%;
+    width:700px;
+    height: 500px;
+}
+.rep-y {
+    /*
+    background-image: url('banner.jpg');
+    background-color: green;
+    background-repeat: repeat-y; */
+    background: green url("banner.jpg") repeat-y;
+    background-size: 30%;
+    width:700px;
+    height: 500px;
+}
+.no-rep {
+    /*
+    background-image: url('banner.jpg');
+    background-color: green;
+    background-repeat: no-repeat; */
+    background: green url("banner.jpg") no-repeat;
+    background-size: 30%;
+    width:700px;
+    height: 500px;
+}
