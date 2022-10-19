@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap');
+.gerogia {
+    font-family: Georgia;
+}
+.sans-sarif {
+    font-family: sans-serif;
+}
+.size-40 {
+    font-size: 40;
+    font-family: Georgia;
+}
+.google-fonts {
+    font-family: 'Fuzzy Bubbles';
+    font-size: 40;
+    color:green;
+}
+.no-style {
+    font-family: Georgia;
+    font-size: 40;
+}
+.font-styles-bold {
+    font-family: Georgia;
+    font-size: 40;
+    font-style: bold;
+}
+.font-styles-italic {
+    font-family: 'times new roman';
+    font-size: 40;
+    font-style: italic;
+}
+.font-shortcuts {
+    font: italic 40px "times new roman";
+}
